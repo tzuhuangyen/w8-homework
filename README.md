@@ -4,7 +4,7 @@
 Create an application that changes the button name and the background color using a Pure Component and  a Higher-Order Components (HOCs) to handle state and color functionality. 
 
 ### Development:
-1 - Fork the project with the start structure from https://github.com/cjheyde/w8class1-homework
+1 - Fork the project with the start structure from https://github.com/cjheyde/w8-homework 
 - To fork you need to click Fork, In the top-right corner of the repo page.
 - Under "Owner," select the dropdown menu and click your GitHub username as the owner for the repository.
 - Click Create fork.
