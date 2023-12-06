@@ -17,7 +17,7 @@ button {
   cursor: pointer;
   color: rgb(86, 58, 58);
   border: 1px solid #4a4a4a;
-  border-radius: 5px;
+  border-radius: 20px; /* 将按钮变为椭圆形 */
   transition: background-color 0.3s;
 }
 
