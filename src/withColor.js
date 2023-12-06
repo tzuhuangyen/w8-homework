@@ -3,7 +3,7 @@
 // and provide it with the necessary state and functionality to handle the background color and the button
 // name.
 //Higher-Order Component是一個函式，其接收Component為參數並回傳Component
-import React from "react";
+import React, { useState } from "react";
 
 const withColor = (WrappedComponent) => {
   return class extends React.Component {

@@ -1,7 +1,11 @@
 .color-button {
+  width: 120px; /* 调整按钮宽度 */
+  height: 60px; /* 调整按钮高度 */
+  border-radius: 20px; /* 将按钮变为椭圆形 */
   padding: 10px;
-  color: white;
-  cursor: pointer;
+  background-color: #3498db;
+  color: #ffffff;
   border: none;
-  outline: none;
+  cursor: pointer;
+  outline: none; /* 去除默认的轮廓样式 */
 }
