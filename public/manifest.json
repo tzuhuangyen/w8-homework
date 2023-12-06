@@ -1,0 +1,9 @@
+{
+  "name": "ColorButton App",
+  "short_name": "CB App",
+  "description": "A React app with a color-changing button",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
