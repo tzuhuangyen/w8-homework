@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Demo https://tzuhuangyen.github.io/w8-homework/
 ### Deliverable: 
 Create an application that changes the button name and the background color using a Pure Component and  a Higher-Order Components (HOCs) to handle state and color functionality. 
 
